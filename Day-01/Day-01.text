@@ -2,7 +2,7 @@ Day-01[14-02-2023]:
 ===================
 	Good Morning All..
 
-	Python Downloads:
+    Python Downloads:
     =================
     > Open browser and search for "python.org" at first it displays "https://python.org" click on the link to proceed for the site
     > It displays some options in navbar we need to place a cursor on "Downloads" and it diplays some other dropdown options like to select operating systems such as "windows,all,mac and linux etc.,"
@@ -51,12 +51,12 @@ Day-01[14-02-2023]:
 
     Python Version Check or Checking whether it is installed in local machine or not?
 
-	Python Version Check:
-	=====================
-		- cmd
-		- python -V
+    Python Version Check:
+    =====================
+	- cmd
+	- python -V
 
-	Pip:
+    Pip:
     ====
     > Pip is used to install third party packages related to python such as jupyter notebook,numpy,pandas,matplotlib and some machine learning packages
     > First we need to check the pip version by using the command in command prompt such as
@@ -86,7 +86,7 @@ Day-01[14-02-2023]:
 		- cmd
 		- django-admin --version
 
-	Creation of Project:
+    Creation of Project:
     ====================
         - Choose a location in local machine where we need to create a project
         - Open command prompt from that location
@@ -119,7 +119,7 @@ Day-01[14-02-2023]:
         - cmd
         - cntrl + c [Exits from server]
 
-	Admin App Folder Overview:
+    Admin App Folder Overview:
     ==========================
         - init => It will be considered as python file
         - asgi => Asynchronous Gate Way Interface [Project Deployment] 
@@ -134,7 +134,7 @@ Day-01[14-02-2023]:
             - py manage.py startapp DemoApp
 
     User App Overview:
-	==================
+    ==================
 		- migrations => Table Creations [Inheritance]
 		- init => Interpreter just to consider this as python file
 		- admin => User tables,List format => For admin access
@@ -143,12 +143,12 @@ Day-01[14-02-2023]:
 		- tests => Unit/black box testing
 		- views => Logic, Functions to access, Actions
 
-	Concepts:
-	---------
-		- HttpRequest and Response with string data
-		- HttpResponse with html tag and css styling
-		- Dynamic url mapping with single and n parameters
-		- Interface between controllers
+Concepts:
+---------
+	- HttpRequest and Response with string data
+	- HttpResponse with html tag and css styling
+	- Dynamic url mapping with single and n parameters
+	- Interface between controllers
         - Template Creation
         - Interface between controller and Template 
 
